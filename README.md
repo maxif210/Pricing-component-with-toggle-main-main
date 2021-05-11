@@ -59,6 +59,6 @@ Los patrones del fondo de la página no se muestran correctamente (se cortan las
 
 ## Autor
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/eduviana
-- Email - eduardoviana83@gmail.com
+- Frontend Mentor - https://www.frontendmentor.io/profile/maxif
+- Email - mfallauto@gmail.com
 
